@@ -1,6 +1,7 @@
 
 import { Link, useLocation } from "react-router-dom";
 import navbarcss from "./NavBar.module.css"
+import resume from "../../assets/Abdelrahman Sameh Resume.pdf"
 
 function NavBar() {
 
@@ -29,7 +30,7 @@ function NavBar() {
         </li>
       </ul>
 
-      <a href="../../assets/Abdelrahman Sameh Resume.pdf" download={"My-Resume"}>
+      <a href={resume} download={"My-Resume"}>
       <button className={"btn me-3 " + navbarcss.resumeBtn }>Resume  <i class="fa-solid fa-download ps-2 "></i></button>
       </a>
       <button className={"btn " + navbarcss.emailBtn }> <a className={ navbarcss.emailLink } href="mailto:abdelrahmansameh2299@gmial.com"> Lets Connect </a>  <i class="fa-regular fa-handshake ps-2 "></i></button>
