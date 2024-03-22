@@ -1,7 +1,7 @@
 
 import { Link, useLocation } from "react-router-dom";
 import navbarcss from "./NavBar.module.css"
-import resume from "../../assets/Abdelrahman Sameh Resume.pdf"
+import resume from "../../Abdelrahman Sameh Resume.pdf"
 
 function NavBar() {
 
