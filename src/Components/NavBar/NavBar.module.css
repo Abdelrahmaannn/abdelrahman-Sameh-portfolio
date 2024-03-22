@@ -1,0 +1,119 @@
+
+.logobrand
+{
+    color: #0E0E0E;
+    font-family: "Inter Tight", sans-serif;
+    font-size: 25px !important;
+    font-weight: 800;
+    
+}
+
+.navbarItem
+{
+    color: #0E0E0E !important;
+    font-family: "Inter Tight", sans-serif;
+    font-size: 17px !important;
+    font-weight: 500;
+    position: relative !important;
+}
+
+.navbarItem::after
+{
+
+    content: "" !important;
+    background-color: #0E0E0E !important;
+    width: 0 ;
+    height: 0 ;
+    position: absolute;
+    bottom: 5px !important;
+    left: 28%;
+    transition: all 0.2s;
+}
+
+.navbarItem:hover::after
+{
+    width: 50% ;
+    height: 3px ;
+}
+
+.resumeBtn
+{
+    background-color: white !important;
+    border-radius: 50px !important;
+    padding: 10px 15px !important;
+    font-family: "Inter Tight", sans-serif !important;
+    font-weight: 600 !important;
+    transition: all 0.5s !important;
+}
+
+.resumeBtn:hover
+{
+    background-color:#0E0E0E !important;
+    color: white !important;
+
+}
+
+.emailBtn
+{
+    background-color: white !important;
+    border-radius: 50px !important;
+    padding: 10px 15px !important;
+    font-family: "Inter Tight", sans-serif !important;
+    font-weight: 600 !important;
+    transition: all 0.5s !important;
+}
+
+.emailBtn:hover
+{
+    background-color:#0E0E0E !important;
+    color: white !important;
+}
+.emailBtn:hover .emailLink
+{
+    color: white;
+}
+
+.emailLink
+{
+    text-decoration: none;
+    color: #0E0E0E;
+}
+
+.ActiveLInk::after
+{
+    content: "" !important;
+    background-color: #0E0E0E !important;
+    width: 50% ;
+    height: 3px ;
+    position: absolute;
+    bottom: 5px !important;
+    left: 28%;
+    transition: all 0.2s;
+
+}
+
+
+@media screen and (max-width:500px) 
+{
+    .navbarItem::after
+{
+    left: 0%;
+
+}
+
+.navbarItem:hover::after
+{
+    width: 20% ;
+    height: 3px ;
+}
+
+.ActiveLInk::after
+{
+    width: 20% ;
+    height: 3px ;
+    left: 0;
+}
+
+
+
+}

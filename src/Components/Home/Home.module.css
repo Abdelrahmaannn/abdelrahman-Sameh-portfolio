@@ -1,0 +1,247 @@
+.heroSection
+{
+    padding-bottom: 60px;
+
+    /* background-color: brown; */
+    text-align: center;
+}
+
+@font-face {
+    font-family: ink-free;
+    src: url(../../assets/Fonts/Ink-Free-Font/Inkfree.ttf);
+  }
+
+.myh1
+{
+
+    padding-top: 20px;
+    font-family: "Inter Tight", sans-serif;
+    font-size: 55px;
+    font-weight: 900;
+}
+
+.heroimage
+{
+    width: 30%;
+    border-radius: 15px;
+}
+
+.subKalam
+{
+    width: 40%;
+}
+
+.myh5
+{
+    font-family: ink-free ;
+}
+
+.importantWord
+{
+    background-color: #DAE83A;
+    border-radius: 10px;
+    padding: 4px;
+}
+
+/* end of first section */
+
+/* ********************************* */
+
+.companies
+{
+    padding-bottom: 60px;
+
+}
+
+.myh2
+{
+    font-size: 40px;
+    font-family: "Inter Tight", sans-serif;
+    font-weight: 800;
+    padding-top: 40px;
+}
+
+.companyimage
+{
+    width: 20%;
+}
+
+.myimg
+{
+    width: 90%;
+}
+
+/* end of second section */
+
+/* ********************************* */
+
+.aboutMe
+{
+    padding-bottom: 60px;
+}
+
+.myInfo
+{
+    font-family: "Inter Tight", sans-serif;
+    font-size: 22px;
+    padding-top: 20px;
+    font-weight: 500;
+}
+
+/* end of third section */
+
+/* ********************************* */
+
+
+.technologies
+{
+    padding-bottom: 60px;
+}
+
+.inner
+{
+    /* background-color: #DAE83A; */
+    width: 25%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.blackCircle
+{
+    /* background-color: #0E0E0E; */
+    background-color: #EFEFEF;
+    width: 270px;
+    height: 270px;
+    border-radius: 50%;
+    margin-top: 40px;
+    transition: all 0.5s;
+}
+
+.blackCircle:hover
+{
+    transform: translateY(-10px);
+    box-shadow: 10px 10px 10px 10px rgb(200, 200, 200);
+}
+
+.bootstrab
+{
+    width: 55%;
+    margin-top: 60px;
+    margin-left: 60px;
+}
+
+/* end of tech nology section */
+/* ****************************************** */
+
+.softWare
+{
+    padding-bottom: 50px;
+    /* background-color: brown; */
+    margin-bottom: 60px;
+}
+
+
+
+
+
+
+@media screen and (max-width:500px) 
+{
+    .myh1
+{
+    font-size: 30px;
+}
+
+.subKalam
+{
+    width: 85%;
+}
+
+.myh5
+{
+    font-family: ink-free ;
+    font-size: 16px;
+}
+
+.heroimage
+{
+    width: 80%;
+}
+
+/* end of first section */
+
+/* ********************************* */
+
+.myh2
+{
+    text-align: center;
+    padding-top: 20px;
+}
+
+.companyimage
+{
+    width: 50%;
+    padding-top: 11px;
+}
+
+/* end of second section */
+
+/* ********************************* */
+
+.aboutMe
+{
+    padding-bottom: 40px;
+}
+
+.myInfo
+{
+    text-align: center;
+    font-size: 22px;
+    padding-top: 15px;
+
+}
+
+/* end of third section */
+
+/* ********************************* */
+
+
+.inner
+{
+    /* background-color: #DAE83A; */
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.blackCircle
+{
+    /* background-color: #0E0E0E; */
+    background-color: #EFEFEF;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.bootstrab
+{
+    width: 50%;
+    margin-top: 0px;
+    margin-left: 0px;
+}
+
+
+
+
+
+
+
+
+}

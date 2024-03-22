@@ -1,0 +1,92 @@
+
+.myh1
+{
+    font-family: "Inter Tight", sans-serif;
+    font-weight: 800;
+    margin-top: 60px;
+}
+
+.myh5
+{
+    margin-top: 10px;
+    font-family: "Inter Tight", sans-serif;
+    font-weight: 500;
+}
+
+.certificateLink
+{
+    text-decoration: none;
+    color: black;
+    transition: all 0.3s;
+}
+
+.myh5:hover .certificateLink
+{
+
+    color: rgb(87, 87, 87);
+}
+
+.Icon
+{
+    transition: all 0.3s;
+}
+
+.certificateLink:hover .Icon
+{
+    transform: translateX(3px);
+}
+
+.myh4
+{
+    font-family: "Inter Tight", sans-serif; 
+    font-weight: 500;
+    margin-top: 10px;
+}
+
+.credlyLink
+{
+    text-decoration: none;
+    color: black;
+    transition: all 0.3s;
+}
+
+.myh4:hover .credlyLink
+{
+    color: rgb(87, 87, 87); 
+}
+
+.credlyLink:hover .Icon
+{
+    transform: translateX(3px);
+}
+
+
+
+@media screen and (max-width:500px) 
+{
+    .myh1
+{
+
+    text-align: center;
+}
+
+.myh4
+{
+    text-align: center;
+}
+
+.myh5
+{
+    text-align: center;
+    padding-bottom: 15px;
+}
+
+.inner
+{
+    text-align: center;
+}
+
+}
+
+
+/* .Icon */

@@ -1,0 +1,24 @@
+
+.detectOffline
+{
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: #F83E3E;
+    color: white;
+    font-family: "Inter Tight", sans-serif;
+    padding: 15px 20px;
+    border-radius: 30px;
+    font-weight: 500;
+}
+
+@media screen and (max-width:500px) 
+{
+    .detectOffline
+    {
+       width: 70%;
+       font-size: 16px;
+       text-align: center;
+    }
+}
