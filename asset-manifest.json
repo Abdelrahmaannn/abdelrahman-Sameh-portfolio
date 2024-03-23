@@ -1,8 +1,9 @@
 {
   "files": {
     "main.css": "/abdelrahman-Sameh-portfolio/static/css/main.aa098105.css",
-    "main.js": "/abdelrahman-Sameh-portfolio/static/js/main.a5ec5b61.js",
+    "main.js": "/abdelrahman-Sameh-portfolio/static/js/main.1494d29c.js",
     "static/js/453.c4f25d03.chunk.js": "/abdelrahman-Sameh-portfolio/static/js/453.c4f25d03.chunk.js",
+    "static/media/Abdelrahman Sameh Resume.pdf": "/abdelrahman-Sameh-portfolio/static/media/Abdelrahman Sameh Resume.b477886f5f560fc254e6.pdf",
     "static/media/profileImage.png": "/abdelrahman-Sameh-portfolio/static/media/profileImage.f73d227257acc39b9789.png",
     "static/media/fa-solid-900.ttf": "/abdelrahman-Sameh-portfolio/static/media/fa-solid-900.45a265d0f07b31cde85f.ttf",
     "static/media/IMG_1678449011705.jpg": "/abdelrahman-Sameh-portfolio/static/media/IMG_1678449011705.2f8f219a08589f740850.jpg",
@@ -37,11 +38,11 @@
     "static/media/fa-v4compatibility.woff2": "/abdelrahman-Sameh-portfolio/static/media/fa-v4compatibility.b3049b13a93f07e026fc.woff2",
     "index.html": "/abdelrahman-Sameh-portfolio/index.html",
     "main.aa098105.css.map": "/abdelrahman-Sameh-portfolio/static/css/main.aa098105.css.map",
-    "main.a5ec5b61.js.map": "/abdelrahman-Sameh-portfolio/static/js/main.a5ec5b61.js.map",
+    "main.1494d29c.js.map": "/abdelrahman-Sameh-portfolio/static/js/main.1494d29c.js.map",
     "453.c4f25d03.chunk.js.map": "/abdelrahman-Sameh-portfolio/static/js/453.c4f25d03.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.aa098105.css",
-    "static/js/main.a5ec5b61.js"
+    "static/js/main.1494d29c.js"
   ]
 }
