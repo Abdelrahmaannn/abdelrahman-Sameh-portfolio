@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/abdelrahman-Sameh-portfolio/static/css/main.aa098105.css",
-    "main.js": "/abdelrahman-Sameh-portfolio/static/js/main.1494d29c.js",
+    "main.js": "/abdelrahman-Sameh-portfolio/static/js/main.7d34dbe0.js",
     "static/js/453.c4f25d03.chunk.js": "/abdelrahman-Sameh-portfolio/static/js/453.c4f25d03.chunk.js",
     "static/media/Abdelrahman Sameh Resume.pdf": "/abdelrahman-Sameh-portfolio/static/media/Abdelrahman Sameh Resume.b477886f5f560fc254e6.pdf",
     "static/media/profileImage.png": "/abdelrahman-Sameh-portfolio/static/media/profileImage.f73d227257acc39b9789.png",
@@ -18,6 +18,7 @@
     "static/media/read begin.png": "/abdelrahman-Sameh-portfolio/static/media/read begin.99d6d392ca4b3d9011ed.png",
     "static/media/bezel.png": "/abdelrahman-Sameh-portfolio/static/media/bezel.33a3e32443e8009ac4f3.png",
     "static/media/Shopaholics Dots and stars.png": "/abdelrahman-Sameh-portfolio/static/media/Shopaholics Dots and stars.b51c125960f68d855dcb.png",
+    "static/media/Route-Front-End.png": "/abdelrahman-Sameh-portfolio/static/media/Route-Front-End.507d814633994283f83b.png",
     "static/media/shogun.png": "/abdelrahman-Sameh-portfolio/static/media/shogun.1218971825668745920e.png",
     "static/media/fa-regular-400.ttf": "/abdelrahman-Sameh-portfolio/static/media/fa-regular-400.adc51aab4d771ab65f81.ttf",
     "static/media/movie box.png": "/abdelrahman-Sameh-portfolio/static/media/movie box.a07264d1e78d6f6f8f33.png",
@@ -38,11 +39,11 @@
     "static/media/fa-v4compatibility.woff2": "/abdelrahman-Sameh-portfolio/static/media/fa-v4compatibility.b3049b13a93f07e026fc.woff2",
     "index.html": "/abdelrahman-Sameh-portfolio/index.html",
     "main.aa098105.css.map": "/abdelrahman-Sameh-portfolio/static/css/main.aa098105.css.map",
-    "main.1494d29c.js.map": "/abdelrahman-Sameh-portfolio/static/js/main.1494d29c.js.map",
+    "main.7d34dbe0.js.map": "/abdelrahman-Sameh-portfolio/static/js/main.7d34dbe0.js.map",
     "453.c4f25d03.chunk.js.map": "/abdelrahman-Sameh-portfolio/static/js/453.c4f25d03.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.aa098105.css",
-    "static/js/main.1494d29c.js"
+    "static/js/main.7d34dbe0.js"
   ]
 }
