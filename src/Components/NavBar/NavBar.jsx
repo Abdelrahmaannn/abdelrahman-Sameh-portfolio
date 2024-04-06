@@ -33,7 +33,7 @@ function NavBar() {
       </ul>
 
       <a href= "https://drive.google.com/file/d/1cr5Psj9y3SiLhMexQufQ3tHyGc9OclzG/view?usp=sharing" target="_blank" >
-      <button className={"btn me-3 " + navbarcss.resumeBtn }>Show Resume  <i class="fa-regular fa-eye ps-2 "></i></button>
+      <button className={"btn me-3 " + navbarcss.resumeBtn }>Show Resume <i class="fa-regular fa-eye ps-2 "></i></button>
       </a>
       <button className={"btn " + navbarcss.emailBtn }> <a className={ navbarcss.emailLink } href="mailto:abdelrahmansameh2299@gmial.com"> Lets Connect </a>  <i class="fa-regular fa-handshake ps-2 "></i></button>
     </div>
